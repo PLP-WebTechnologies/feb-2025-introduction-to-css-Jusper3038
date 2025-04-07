@@ -1,0 +1,123 @@
+/* ===== Base Styles ===== */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fffaf6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+  }
+  
+  /* ===== ID Selector ===== */
+  #main-heading {
+    font-size: 2.8rem;
+    text-align: center;
+    color: #b77e5a;
+    margin: 30px 0 10px;
+  }
+  
+  /* ===== Class Selectors ===== */
+  .tagline {
+    text-align: center;
+    font-style: italic;
+    font-size: 1.2rem;
+    color: #7a5c43;
+    margin-bottom: 40px;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .hero-image {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 15px;
+    border: 4px solid #e7cfc2;
+    margin-bottom: 20px;
+  }
+  
+  .intro {
+    font-size: 1.1rem;
+    color: #4a3f35;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  /* ===== Services Section ===== */
+  .services {
+    background-color: #fff2ec;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .services h2 {
+    color: #9c6849;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .services ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.1rem;
+    color: #5e4736;
+  }
+  
+  .services ul li {
+    margin: 10px 0;
+  }
+  
+  /* ===== About Section ===== */
+  .about {
+    padding: 40px 20px;
+    max-width: 700px;
+    margin: auto;
+  }
+  
+  .about h2 {
+    font-size: 2rem;
+    color: #b77e5a;
+    margin-bottom: 15px;
+  }
+  
+  /* ===== Contact Section ===== */
+  .contact {
+    background-color: #fff7f2;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .contact h2 {
+    font-size: 2rem;
+    color: #a56445;
+    margin-bottom: 15px;
+  }
+  
+  .contact p {
+    font-size: 1.1rem;
+    color: #3c2c22;
+    line-height: 1.8;
+  }
+  
+  .contact a {
+    color: #b77e5a;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  
+  /* ===== Footer ===== */
+  footer {
+    background-color: #eadcd4;
+    text-align: center;
+    padding: 15px;
+    color: #5a3d2b;
+    font-size: 0.95rem;
+  }
+  
